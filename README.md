@@ -30,7 +30,6 @@
 <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
 <a href="https://tryhackme.com" target="_blank"> <img src="https://assets.tryhackme.com/img/thm_logo_cropped.svg" alt="TryHackMe" width="40" height="40"/></a>
-<a href="https://www.wireshark.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/></a>
 <a href="https://www.nmap.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="40" height="40"/></a>
 
 
