@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/GabrieleFlorio28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=100&multiline=true&width=470&height=80&lines=Gabriele+Florio;+Student+%7C+Aspiring+Cybersecurity+Specialist;TryHackMe+%7C+Linux+%7C+Docker+%7C+Kubernetes;Ethical+Hacking+%7C+CTF+%7C+Networking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=100&multiline=true&width=470&height=80&lines=Vincenzo+Gabriele+Florio;+Student+%7C+Aspiring+Cybersecurity+Specialist;Docker+%7C+Kubernetes;Ethical+Hacking+%7C+CTF+%7C+Networking" alt="Typing SVG" />
 </a>
 <br/>
 
