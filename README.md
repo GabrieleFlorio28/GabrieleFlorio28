@@ -52,13 +52,3 @@ I am currently completing my Computer Science degree at UNICT, driven by curiosi
   </p>
   <a href="https://github.com/GabrieleFlorio28?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrieleFlorio28&show_icons=true&hide_title=true&hide_rank=true&theme=react&hide_border=true&hide=prs,contribs" alt="stats" width="410"/>
-  <img src="https://streak-stats.demolab.com?user=GabrieleFlorio28&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" width="410"/>
-</p>
----
-
-<!-- Profilo powered by curiosità, laboratorio, CTF e caffè ☕ -->
