@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/GabrieleFlorio28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=100&multiline=true&width=470&height=80&lines=Vincenzo+Gabriele+Florio;Computer+Science+Student;Aspiring+Cybersecurity+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=100&multiline=true&width=470&height=80&lines=Vincenzo+Gabriele+Florio;Computer+Science+Student;Aspirin[...]
 </a>
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/>
 <a href="https://github.com/GabrieleFlorio28">
-    <img src="https://github-stats-alpha.vercel.app/api?username=GabrieleFlorio28&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img width="560" src="https://github-stats-alpha.vercel.app/api?username=GabrieleFlorio28&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
@@ -36,6 +36,8 @@ I am building practical skills in offensive/defensive security, Linux, networkin
 **Practical focus:** design and development of a Docker-based **Didactic Vulnerable Lab**.
 
 I am developing a reproducible and easy-to-deploy containerized lab that includes multiple vulnerability scenarios for educational and portfolio purposes.
+
+🔗 **Thesis project repository:** https://github.com/GabrieleFlorio28/VulnerableLab
 
 ### Project Goals
 - Build realistic vulnerable scenarios in an isolated environment
@@ -66,17 +68,35 @@ I am developing a reproducible and easy-to-deploy containerized lab that include
 ---
 
 ## 🔐 Programming Languages
-<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## ⚙️ Tools, Frameworks, DevOps
-<a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
+<p align="left">
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -88,9 +108,9 @@ I am developing a reproducible and easy-to-deploy containerized lab that include
 <details open>
   <summary><h2>📘 Featured GitHub Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/GabrieleFlorio28/GabrieleFlorio28"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GabrieleFlorio28&repo=GabrieleFlorio28&theme=react&bg_color=1F222E&title_color=00aaff&hide_border=true&icon_color=ff99cc&show_icons=false" alt="Cybersecurity Portfolio & Notes"></a>
+    <a href="https://github.com/GabrieleFlorio28/VulnerableLab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GabrieleFlorio28&repo=VulnerableLab&theme=github_dark" /></a>
   </p>
-  <a href="https://github.com/GabrieleFlorio28?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/GabrieleFlorio28?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20[...]
 </details>
 
 ---
