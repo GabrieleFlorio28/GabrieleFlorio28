@@ -108,9 +108,13 @@ I am developing a reproducible and easy-to-deploy containerized lab that include
 <details open>
   <summary><h2>📘 Featured GitHub Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/GabrieleFlorio28/VulnerableLab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GabrieleFlorio28&repo=VulnerableLab&theme=github_dark" /></a>
+    <a href="https://github.com/GabrieleFlorio28/VulnerableLab">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GabrieleFlorio28&repo=VulnerableLab&theme=github_dark" />
+    </a>
   </p>
-  <a href="https://github.com/GabrieleFlorio28?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20[...]
+  <a href="https://github.com/GabrieleFlorio28?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20Repositories-22272e?style=for-the-badge&logo=repo" />
+  </a>
 </details>
 
 ---
